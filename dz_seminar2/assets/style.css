@@ -1,0 +1,41 @@
+.image {
+    width: 400px;
+    display:flex;
+    justify-content: left
+}
+
+.boxWrapper {
+    margin-top: 30px;
+    display: flex;
+}
+
+.title {
+    color: cyan;
+    font-size: 60px
+}
+
+.box {
+    
+    border-bottom: 2px solid yellow;
+    
+
+}
+
+.body {
+    background-color: rgb(206, 233, 153);
+    color:cadetblue;
+    font-size: 15px
+}
+h2 {
+    color: green;
+    font-size: 30px;
+
+}
+
+h1  {
+    text-align: left;
+    margin-left: 400px;
+    color: blue;
+    font-size: 60px
+}
+

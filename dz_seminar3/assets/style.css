@@ -1,0 +1,26 @@
+h1, h2 {
+    color: green;
+    font-size: 70px;
+}
+
+p {
+    margin: 0;
+    font-size: 20px;
+    color:blue;
+}
+
+.title {
+    color: red;
+    font-size: 45px;
+    width: 300px;
+}
+
+.active {
+    color:aqua;
+}
+
+button {
+    width: 150px;
+    height: 75px;
+}
+
